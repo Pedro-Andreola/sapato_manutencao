@@ -17,7 +17,7 @@ body{
     flex-direction: row;
     justify-content:space-between;
     align-items: center;
-    background-color: rgba(140,140,140,0.8);
+    background-color: rgba(140,140,140);
 }
 
 .icon{
@@ -52,7 +52,7 @@ nav a:hover{
 
 .lista{
     position:absolute;
-    top: 17vh;
+    top: 16.5vh;
     width: 15vw;
     height: 110vh;
     left: -50vw;
@@ -121,7 +121,7 @@ h1{
 
 footer{
     padding: 4px;
-    background-color: rgba(140,140,140,0.8);
+    background-color: rgba(140,140,140);
     font-size: 0.4rem;
     text-align: center;
 }
@@ -140,7 +140,7 @@ footer{
         flex-direction: row;
         justify-content:space-between;
         align-items:center;
-        background-color: rgba(140,140,140,0.8);
+        background-color: rgba(140,140,140);
     }
 
 
